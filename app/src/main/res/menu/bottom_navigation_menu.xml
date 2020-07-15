@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_all_songs"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="All songs"
+        />
+    <item
+        android:id="@+id/navigation_playlist"
+        android:icon="@drawable/ic_queue_music_black_24dp"
+        android:title="Playlists"
+        />
+
+
+</menu>
